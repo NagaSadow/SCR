@@ -1,1 +1,1 @@
-# Repozytorium do labaratorium z kursu SCR systemy operacyjne.
+# Repozytorium do laboratorium z kursu SCR systemy operacyjne.
